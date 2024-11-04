@@ -1,4 +1,4 @@
-# SUHAIL-X (V2)
+# Code-X-Gigian (V2)
 <p align="center">
 <a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
 
